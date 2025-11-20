@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/woromates-dotcom/Project-PP-loading-/refs/heads/main/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94%20(2).txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/woromates-dotcom/Project-PP-logo-/refs/heads/main/Project-PP-logo-realB%E0%B8%A5%E0%B8%94%20(2).txt"))()
 
 local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 
