@@ -118,6 +118,8 @@ local scripts = {
 
     {Title = "stigma ultimate", URL = "https://raw.githubusercontent.com/C-Dr1ve/Executor-Remakes-In-Lua/refs/heads/main/Remakes/Stigma_Revision_0.lua"},
 
+    {Title = "RoXploit", URL = "loadstring(game:GetObjects('rbxassetid://364364477')[1].Source)()"},
+
 }
 
 for _, v in pairs(scripts) do
