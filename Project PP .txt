@@ -136,11 +136,10 @@ for _, v in pairs(scripts) do
 
 end
 
-p1Tab:Button({
-    Title = "Copy Script",
+p3Tab:Button({
+    Title = "RoXploit",
     Description = "This script is an object load copy script and put in executor ",
-    Callback = function()
-        setclipboard("loadstring(game:GetObjects('rbxassetid://364364477')[1].Source)()")
+    Callback = function()      setclipboard("loadstring(game:GetObjects('rbxassetid://364364477')[1].Source)()")
     end
 })
 
@@ -303,5 +302,13 @@ ts:TeleportToPlaceInstance(game.PlaceId, game.JobId, p)
     end
 
 })
+
+local p3Tab = Window:Tab({
+
+    Title = "script object",
+
+    Icon = "script",
+
+    Locked = false,
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/woromates-dotcom/Project-PP-logo-/refs/heads/main/README.md"))()
